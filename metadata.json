@@ -1,0 +1,5 @@
+{
+  "name": "Ansible Navigator AI",
+  "description": "An AI-powered web application to learn Ansible Automation Platform from basics to intermediate levels, featuring an advanced 'Thinking Mode' for complex queries.",
+  "requestFramePermissions": []
+}
